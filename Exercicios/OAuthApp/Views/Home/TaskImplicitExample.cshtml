@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "title";
+
+    string url = "https://accounts.google.com/o/oauth2/auth";
+    string clientId = "310647620794.apps.googleusercontent.com";
+    string redirectUri = HttpUtility.UrlEncode("http://localhost:49816/Home/AuthCallback");
+    string scope = HttpUtility.UrlEncode("https://www.googleapis.com/auth/tasks.readonly");
+    string state = Request.Url.AbsoluteUri;
+
+    string urlResult = string.Format("{0}?response_type=token&client_id={1}&redirect_uri={2}&scope={3}&state={4}&approval_prompt=force", url, clientId, redirectUri, scope, state);
+    
+}
+
+<script type="text/javascript">
+    
+</script>
+
+<h2>title</h2>
+
+<a href=@urlResult>Contact google</a>

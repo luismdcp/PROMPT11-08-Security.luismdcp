@@ -1,0 +1,7 @@
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\MvcApplication\bin\MvcApplication.dll
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\MvcApplication\bin\MvcApplication.pdb
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\MvcApplication\bin\EntityFramework.dll
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\MvcApplication\bin\EntityFramework.xml
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\MvcApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\MvcApplication\obj\Debug\MvcApplication.dll
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\MvcApplication\obj\Debug\MvcApplication.pdb

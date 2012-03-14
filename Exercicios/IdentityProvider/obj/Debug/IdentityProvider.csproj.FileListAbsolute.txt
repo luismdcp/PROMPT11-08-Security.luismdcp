@@ -1,0 +1,7 @@
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\IdentityProvider\bin\IdentityProvider.dll
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\IdentityProvider\bin\IdentityProvider.pdb
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\IdentityProvider\bin\EntityFramework.dll
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\IdentityProvider\bin\EntityFramework.xml
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\IdentityProvider\obj\Debug\ResolveAssemblyReference.cache
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\IdentityProvider\obj\Debug\IdentityProvider.dll
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\IdentityProvider\obj\Debug\IdentityProvider.pdb

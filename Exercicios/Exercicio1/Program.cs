@@ -11,10 +11,11 @@ namespace Exercicio1
             string filePath = @"c:\1.png";
             byte[] fileContentBytes = File.ReadAllBytes(filePath);
 
-            SHA512Managed hashFunction = new SHA512Managed();
-            var hashBytes = hashFunction.ComputeHash(fileContentBytes);
-            var encoding = new UTF8Encoding();
-            var stringResult = encoding.GetString(hashBytes);
+            using (SHA512Managed hashFunction = new SHA512Managed())
+            {
+                var hashBytes = hashFunction.ComputeHash(fileContentBytes);
+                var stringResult = new UTF8Encoding().GetString(hashBytes);
+            } 
         }
     }
 }

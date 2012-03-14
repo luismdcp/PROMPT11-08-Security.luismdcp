@@ -1,0 +1,13 @@
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\OAuthApp\bin\OAuthApp.dll
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\OAuthApp\bin\OAuthApp.pdb
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\OAuthApp\bin\EntityFramework.dll
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\OAuthApp\bin\EntityFramework.xml
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\OAuthApp\obj\Debug\ResolveAssemblyReference.cache
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\OAuthApp\obj\Debug\OAuthApp.dll
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\OAuthApp\obj\Debug\OAuthApp.pdb
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\OAuthApp\bin\System.Net.Http.dll
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\OAuthApp\bin\System.Net.Http.WebRequest.dll
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\OAuthApp\bin\System.Net.Http.xml
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\OAuthApp\bin\System.Net.Http.WebRequest.xml
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\OAuthApp\bin\System.Json.dll
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\OAuthApp\bin\System.Json.xml

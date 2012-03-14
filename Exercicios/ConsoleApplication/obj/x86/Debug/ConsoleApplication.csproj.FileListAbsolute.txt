@@ -1,0 +1,12 @@
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\ConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\ConsoleApplication\obj\x86\Debug\ConsoleApplication.exe
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\ConsoleApplication\obj\x86\Debug\ConsoleApplication.pdb
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\ConsoleApplication\bin\Debug\System.Json.dll
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\ConsoleApplication\bin\Debug\System.Net.Http.dll
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\ConsoleApplication\bin\Debug\System.Net.Http.WebRequest.dll
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\ConsoleApplication\bin\Debug\System.Json.xml
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\ConsoleApplication\bin\Debug\System.Net.Http.xml
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\ConsoleApplication\bin\Debug\System.Net.Http.WebRequest.xml

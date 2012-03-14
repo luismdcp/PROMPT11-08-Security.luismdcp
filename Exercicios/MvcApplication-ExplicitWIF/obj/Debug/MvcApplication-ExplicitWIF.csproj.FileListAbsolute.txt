@@ -1,0 +1,7 @@
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\MvcApplication-ExplicitWIF\bin\MvcApplication-ExplicitWIF.dll
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\MvcApplication-ExplicitWIF\bin\MvcApplication-ExplicitWIF.pdb
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\MvcApplication-ExplicitWIF\bin\EntityFramework.dll
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\MvcApplication-ExplicitWIF\bin\EntityFramework.xml
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\MvcApplication-ExplicitWIF\obj\Debug\ResolveAssemblyReference.cache
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\MvcApplication-ExplicitWIF\obj\Debug\MvcApplication-ExplicitWIF.dll
+C:\PROMPT11\uc08\PROMPT11-08-Security.luismdcp\Exercicios\MvcApplication-ExplicitWIF\obj\Debug\MvcApplication-ExplicitWIF.pdb

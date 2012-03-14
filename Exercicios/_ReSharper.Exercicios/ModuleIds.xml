@@ -1,3 +1,8 @@
 <Modules>
   <Module PersistentId="C3434247-BB07-4CA4-8810-081960018C1B" ModuleId="Exercicio1" />
+  <Module PersistentId="4EB6A3CA-84D8-4260-9780-0F92F7CCDB7C" ModuleId="MvcApplication" />
+  <Module PersistentId="6BF90652-A138-4CC7-BAE3-FC9079E064CE" ModuleId="MvcApplication-ExplicitWIF" />
+  <Module PersistentId="B5D7B665-9DC0-4FCD-8ACE-DDAA6636FFCA" ModuleId="IdentityProvider" />
+  <Module PersistentId="06250B06-2C09-48B3-8FFE-725B85F87E28" ModuleId="OAuthApp_1" />
+  <Module PersistentId="A9FEA0C2-B757-4BD6-A241-660B1346B615" ModuleId="ConsoleApplication" />
 </Modules>
